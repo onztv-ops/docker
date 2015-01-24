@@ -1,1 +1,1 @@
-docker build -t clouderg/softether-2 .
+docker build -t onztv/softether-2 .
